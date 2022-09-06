@@ -256,8 +256,8 @@ def sign_in(id, pwd, name="Turing", check_today=1):
         "shi6": "",
         "fun18": fun18,  # fun18 动态变化，用来检测脚本
         "fun3": "",
-        # "jingdu": "114.6652841",  # 经度
-        # "weidu": "33.6251191",  # 纬度
+        # "jingdu": "114.665284",  # 经度
+        # "weidu": "33.625119",  # 纬度
         "ptopid": ptopid,
         "sid": sid,
     }
